@@ -1,0 +1,11 @@
+https://universe.roboflow.com/public-workspace-j4gzu/gym-equipment
+
+https://universe.roboflow.com/new-workspace-1iial/3gym_2
+
+https://universe.roboflow.com/ecnu/gym_dumbbell
+
+https://universe.roboflow.com/hn-2kixi/healnion-f4l32
+
+https://universe.roboflow.com/tanishq-sardana-axjt1/detecting-punches-in-boxing
+
+https://universe.roboflow.com/cgm/dumbbell_2.5
